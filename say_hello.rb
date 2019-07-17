@@ -6,3 +6,4 @@ say_hello("Kent Beck")
 
 def say_hello(default = "Hello Ruby Programmer!", name)
 end
+say_hello()
