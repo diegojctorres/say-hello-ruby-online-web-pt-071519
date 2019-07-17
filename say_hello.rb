@@ -7,3 +7,4 @@ say_hello("Kent Beck")
 def greeting
   puts "Hello Ruby Programmer!"
 end
+say_hello(greeting)
