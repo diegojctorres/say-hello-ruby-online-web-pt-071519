@@ -1,10 +1,6 @@
 # Build your say_hello method here
-def say_hello(name)
+def say_hello(name, greeting = "Hello Ruby Programmer!")
   puts "Hello #{name}!"
 end
 say_hello("Kent Beck")
 
-def greeting
-  puts "Hello Ruby Programmer!"
-end
-say_hello(greeting)
