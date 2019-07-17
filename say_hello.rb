@@ -5,4 +5,5 @@ end
 say_hello = "Kent Beck"
 
 def say_hello(greeting = "Hello Ruby Programmer!")
-  
+end
+say_hello
